@@ -33,9 +33,9 @@
 
 	<developers>
 		<developer>
-			<id>tylerl</id>
-			<name>Tyler Lesthaeghe</name>
-			<url>http://thermal.cnde.iastate.edu</url>
+			<id>qingzongtseng</id>
+			<name>Qingzong Tseng</name>
+			<url>hhttps://sites.google.com/site/qingzongtseng/template-matching-ij-plugin</url>
 			<roles>
 				<role>lead</role>
 				<role>developer</role>
@@ -46,6 +46,21 @@
 			</roles>
 		</developer>
 	</developers>
+	
+	<contributors>
+		<contributor>
+			<name>Tyler Lesthaeghe</name>
+			<url>http://thermal.cnde.iastate.edu</url>
+			<properties><id>tylerl</id></properties>
+		</contributor>
+	</contributors>
+
+	<mailingLists>
+		<mailingList>
+			<name>ImageJ Forum</name>
+			<archive>http://forum.imagej.net/</archive>
+		</mailingList>
+	</mailingLists>
 
 	<properties>
 		<package-name>TemplateMatching</package-name>
